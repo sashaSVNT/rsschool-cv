@@ -1,0 +1,25 @@
+
+
+
+body{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+}
+
+h1{
+  font-size: 30px;
+  color: rgb(0, 83, 55);
+}
+
+h2{
+  font-size: 22px;
+  color: rgb(0, 63, 83);
+}
+
+.container{
+  margin: 2% auto;
+}
+
+.code__example{
+  margin: 10px 0;
+}
