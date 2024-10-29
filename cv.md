@@ -3,14 +3,15 @@
 * Email: sasha29527@gmail.com
 * Telegram: @Olwpw 
 * GitHub: sashaSVNT
-* Discord: Sanya#1020
+* Discord: sanyaolwpw
 ## About me
-I am studying industrial electronics, but I want to pursue a career in web development. My goal is to become a frontend/full-stack developer and grow in this field.
+I have a higher education in the field of radio electronics. My goal is to become a frontend/full-stack developer and grow in this field.
 ## Skills
 * HTML
 * CSS
 * JS
-* React(In progress)
+* React
+* Salesforce(Lightning Web Components, Apex)
 ## Code example
 In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
 
@@ -25,7 +26,7 @@ function filter_list(l) {
 }
 ```
 ## Education
-* Brest state technical university (In progress)
+* Brest state technical university 
 ## Language
 * English – A2
 * Russian - native
